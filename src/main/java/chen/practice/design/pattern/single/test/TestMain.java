@@ -1,4 +1,4 @@
-package chen.practice.design.pattern.substractfactory;
+package chen.practice.design.pattern.single.test;
 
 
 import chen.practice.design.pattern.single.pojo.TaskManageTool;
