@@ -1,7 +1,7 @@
-package chen.practice.design.pattern.single.test;
+package chen.practice.example.design.pattern.single.test;
 
 
-import chen.practice.design.pattern.single.pojo.TaskManageTool;
+import chen.practice.example.design.pattern.single.pojo.TaskManageTool;
 
 public class TestMain {
     public static void main(String[] args) {

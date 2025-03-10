@@ -1,4 +1,4 @@
-package chen.practice.design.pattern.single.pojo;
+package chen.practice.example.design.pattern.single.pojo;
 
 public class TaskManageTool {
     //1.声明一个静态成员变量，保存单例实例
